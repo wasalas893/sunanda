@@ -32,6 +32,12 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+.gslide-description.description-bottom {
+  display: none !important;
+}
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
